@@ -1,0 +1,22 @@
+ <?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Flappy Rocket.Game"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>The Flappy Rocket</name>
+
+  <description>
+      The Flappy Rocket Game is highly inspired from Flappy Bird. This Game is mde by a 11 year   old kid named Aditya Vyas of India
+  </description>
+
+  <author href="https://build.phonegap.com" email="adityavyas678@gmal.com">
+     Aditya Vyas
+  </author>
+  
+  <icon src= "icon.png" >
+
+</widget>
